@@ -1,0 +1,51 @@
+body {
+background-color: rgb(214, 236, 236);
+}
+
+.titulo {
+    text-align: center;
+    font-size: 90px;
+    color: rgb(8, 7, 7);
+    padding-top: 40px;
+}
+
+.cabeca {
+    background-image: url(..//ESPIRITISMO/fotos/praia.jpg);
+
+    
+}
+
+
+#menu {
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    list-style-type: none;
+
+}
+
+
+#pergunta1 {
+    text-align: center;
+    font-size: 30px;
+
+
+}
+
+#titulopenta {
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+#pentapara {
+    font-size: 30px;
+}
+
+.livros {
+    font-size: 30px;
+}
+
+.livrospara {
+    font-size: 30px;
+}
